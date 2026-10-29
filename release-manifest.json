@@ -1,0 +1,335 @@
+{
+  "date": "2026-10-29",
+  "frontend_baseline_manifest_sha256": "3cd48249045b0d98d75330703bd5caca33a7670d224bb4c2b1a8ed148c9d19eb",
+  "scope": "Explicit source selection; excludes documentation and new demo wrapper",
+  "files": [
+    {
+      "path": "numba2tilelang/composition.py",
+      "origin": "project helper required by legacy acceptance test; not part of baseline 183",
+      "source_sha256": "be160a05c95996846e6ba308330c4807055499e042063ddb5b128650cf532650",
+      "sha256": "be160a05c95996846e6ba308330c4807055499e042063ddb5b128650cf532650",
+      "bytes": 7824,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/abi.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "aeadd2b8319722fdd3a8089289e526ad3a6ae998bc5ffde1afb33b220026b0e2",
+      "sha256": "aeadd2b8319722fdd3a8089289e526ad3a6ae998bc5ffde1afb33b220026b0e2",
+      "bytes": 4810,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/capture.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "12db7b42576a6b4b03e0e839ae420de585148c8e6d48563cdf58557e3cc58a32",
+      "sha256": "12db7b42576a6b4b03e0e839ae420de585148c8e6d48563cdf58557e3cc58a32",
+      "bytes": 13619,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/convert.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "499bded304523f8b27809fd1a41de57092ca357dabc6a2e8cb034a13b69a2290",
+      "sha256": "499bded304523f8b27809fd1a41de57092ca357dabc6a2e8cb034a13b69a2290",
+      "bytes": 87257,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/flat_linear.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "9b24a353d00f05cad5d226cb8b15128d5ef7918e680631f4eda061d2733494ac",
+      "sha256": "9b24a353d00f05cad5d226cb8b15128d5ef7918e680631f4eda061d2733494ac",
+      "bytes": 11433,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/frontend.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "d27ab0ebd2991d8804382ec4fa0b93aa8011aaeca34a433b0ed0463f14c1a8cb",
+      "sha256": "d27ab0ebd2991d8804382ec4fa0b93aa8011aaeca34a433b0ed0463f14c1a8cb",
+      "bytes": 28519,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/guards.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "8c92b3b57fc8e3d35ea62b7d43aa5632f1cf036e87bf2d9d64f55e736a879d45",
+      "sha256": "8c92b3b57fc8e3d35ea62b7d43aa5632f1cf036e87bf2d9d64f55e736a879d45",
+      "bytes": 9519,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/helper_inline.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "20e728d14e2b0f636ad940ba618f47e963c8d484f166c678d62a406b80464181",
+      "sha256": "20e728d14e2b0f636ad940ba618f47e963c8d484f166c678d62a406b80464181",
+      "bytes": 35044,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/lowering.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "2d0c0f04b91b8f4a3af92f77670ea449c5dc53bb0911ef269b14e8a81f24712b",
+      "sha256": "2d0c0f04b91b8f4a3af92f77670ea449c5dc53bb0911ef269b14e8a81f24712b",
+      "bytes": 61386,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/multi_capture.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "46d3702432122dcd32235478e402a6b35c9de56f72623b22fbf708f1ace5517e",
+      "sha256": "46d3702432122dcd32235478e402a6b35c9de56f72623b22fbf708f1ace5517e",
+      "bytes": 5184,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/partial_write.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "d7fc9a88740c816b09d1889f1338af036e91e2eced1e4f3b726758e7b2ac46be",
+      "sha256": "d7fc9a88740c816b09d1889f1338af036e91e2eced1e4f3b726758e7b2ac46be",
+      "bytes": 11255,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/pipeline_lowering.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "abcb4b4fb26cf60468a2c066f4463e8de4b29542d081871510a2e6050d3ea800",
+      "sha256": "abcb4b4fb26cf60468a2c066f4463e8de4b29542d081871510a2e6050d3ea800",
+      "bytes": 13632,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/program.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "16177d1b625e591e5f832fb67a7332a886f6bc38b8d0873f174eb43f04ffb913",
+      "sha256": "16177d1b625e591e5f832fb67a7332a886f6bc38b8d0873f174eb43f04ffb913",
+      "bytes": 26989,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/rowcopy.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "bb8a7e6a4a7d372db78c60a9c5f99461659ade47fda7ac1d79ca368ad3c44303",
+      "sha256": "bb8a7e6a4a7d372db78c60a9c5f99461659ade47fda7ac1d79ca368ad3c44303",
+      "bytes": 22553,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/scoped_capture.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "f2151ade52ae8061c57518c68c082d63debd3ec5a674aa533d19ae0f45f4161c",
+      "sha256": "f2151ade52ae8061c57518c68c082d63debd3ec5a674aa533d19ae0f45f4161c",
+      "bytes": 10485,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/scoped_lowering.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "70e252df23bc6168ebd9f65c8b92f8c69c3e92f92dc258e425c6793b4e730eef",
+      "sha256": "70e252df23bc6168ebd9f65c8b92f8c69c3e92f92dc258e425c6793b4e730eef",
+      "bytes": 17182,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/scoped_schedule.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "0f3c5f21fc27d64623a1a68b7f77bcbe283c4cf556e2ff1131d0f27107690610",
+      "sha256": "0f3c5f21fc27d64623a1a68b7f77bcbe283c4cf556e2ff1131d0f27107690610",
+      "bytes": 5479,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/scoped_validation.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "06e17e0f8a5a963582b094c76a67c1aad2730cceb85ef80a6fde2129661dba35",
+      "sha256": "06e17e0f8a5a963582b094c76a67c1aad2730cceb85ef80a6fde2129661dba35",
+      "bytes": 3573,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/selection.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "4d2a62f2a5e118ac1303d1b2c8692ef041c9354489bd4955f87303ca59ec273a",
+      "sha256": "4d2a62f2a5e118ac1303d1b2c8692ef041c9354489bd4955f87303ca59ec273a",
+      "bytes": 2445,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/semantic.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "b5b47decc1824eb85a627622a7552554c99b725e48aa183b24a67901aae8a47a",
+      "sha256": "b5b47decc1824eb85a627622a7552554c99b725e48aa183b24a67901aae8a47a",
+      "bytes": 94381,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/source_contract.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "24c50d07ac6b52baad66a698f1b61c80d348410137e02971ab24fcf633b46ec9",
+      "sha256": "24c50d07ac6b52baad66a698f1b61c80d348410137e02971ab24fcf633b46ec9",
+      "bytes": 32269,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/thread_atomic.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "bca58e06cb8a40127e90b6231def9d2f4ad3ba3941ac5423dd594be12910d6fd",
+      "sha256": "bca58e06cb8a40127e90b6231def9d2f4ad3ba3941ac5423dd594be12910d6fd",
+      "bytes": 6181,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/thread_bindings.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "7d7a5d5ab0c4bf8cc5a11a3ea25ad2a273cfb2f9b02c9462298517749c2357a5",
+      "sha256": "7d7a5d5ab0c4bf8cc5a11a3ea25ad2a273cfb2f9b02c9462298517749c2357a5",
+      "bytes": 4367,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/thread_capture.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "ae8062de8178d744270b52934c1c1ad9d08d45050aee56674ab2b13e6dec3b6b",
+      "sha256": "ae8062de8178d744270b52934c1c1ad9d08d45050aee56674ab2b13e6dec3b6b",
+      "bytes": 75341,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/thread_device.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "2df451863f81d4ce193662b63eeba4b787e60126f159a3303480bafbad4a92e6",
+      "sha256": "2df451863f81d4ce193662b63eeba4b787e60126f159a3303480bafbad4a92e6",
+      "bytes": 22070,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/thread_ir.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "6df91872b1319e037aefdd04412dda9644fcb3feed3cda504d50eaa9677bca6a",
+      "sha256": "6df91872b1319e037aefdd04412dda9644fcb3feed3cda504d50eaa9677bca6a",
+      "bytes": 4071,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/thread_lowering.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "e362e6d9ec99504d6d29832dd4214f1844f60737d723dd2d91bd9a7d7b14a00e",
+      "sha256": "e362e6d9ec99504d6d29832dd4214f1844f60737d723dd2d91bd9a7d7b14a00e",
+      "bytes": 11572,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/thread_ranges.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "dff27268e2b687ce8874fc1596ba28f8c69881b774c8c3916c7c7739584b41e7",
+      "sha256": "dff27268e2b687ce8874fc1596ba28f8c69881b774c8c3916c7c7739584b41e7",
+      "bytes": 10136,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/thread_runtime.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "4033595481265592e948d015b5e78f559ea25a8a3258ad9ea29cfeb40dd27d46",
+      "sha256": "4033595481265592e948d015b5e78f559ea25a8a3258ad9ea29cfeb40dd27d46",
+      "bytes": 6083,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/thread_typing.py",
+      "origin": "frontend baseline 183",
+      "source_sha256": "36f68c732a1b478fe086b7b4b7463af8a2e2e33bb7173f568264558c590c34aa",
+      "sha256": "36f68c732a1b478fe086b7b4b7463af8a2e2e33bb7173f568264558c590c34aa",
+      "bytes": 5115,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/test_acceptance.py",
+      "origin": "project CPU tests and demonstration",
+      "source_sha256": "d78d81cd9777e86140b2adf6867fe3aa72921826aa752d3c77efde291c49f4b6",
+      "sha256": "d78d81cd9777e86140b2adf6867fe3aa72921826aa752d3c77efde291c49f4b6",
+      "bytes": 5402,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/test_convert.py",
+      "origin": "project CPU tests and demonstration",
+      "source_sha256": "ca3888c6d95c200930c5ffd7df9dc41d40b1aeeb641cabbc9d4f176a6e4df311",
+      "sha256": "ca3888c6d95c200930c5ffd7df9dc41d40b1aeeb641cabbc9d4f176a6e4df311",
+      "bytes": 8968,
+      "change": "none"
+    },
+    {
+      "path": "numba2tilelang/demo_input.py",
+      "origin": "project CPU tests and demonstration",
+      "source_sha256": "99583d8a4f747a413b6ebbb9317e71d4c41d7ff1fab49c2a4335ede9745f0222",
+      "sha256": "99583d8a4f747a413b6ebbb9317e71d4c41d7ff1fab49c2a4335ede9745f0222",
+      "bytes": 244,
+      "change": "none"
+    },
+    {
+      "path": "tilelang2rvv/backend.py",
+      "origin": "RVV research snapshot 2026-10-29",
+      "source_sha256": "720b89f1042d76dafbae8bd21fc035e837601fe613c602cab0bfc27874fd58ea",
+      "sha256": "0cb9cb4fd0a45e71defc5ba808a78634b3c333e75ccfd57abe9a8e013e48c395",
+      "bytes": 74289,
+      "change": "remove default OpenMP duplicate-runtime bypass"
+    },
+    {
+      "path": "tilelang2rvv/examples.py",
+      "origin": "RVV research snapshot 2026-10-29",
+      "source_sha256": "c6bdb90349100c2f45b576e316500b851fb91b983e80d8ab2f10fd0b2dba7824",
+      "sha256": "4eab43636f1765ee7a0ab5538769582ece377c1651a46fa4d292a53bb3dd6da7",
+      "bytes": 30176,
+      "change": "remove default OpenMP duplicate-runtime bypass"
+    },
+    {
+      "path": "tilelang2rvv/runner.py",
+      "origin": "RVV research snapshot 2026-10-29",
+      "source_sha256": "1d2d9867a9eb6b4331c4fc108cef53f9322ed319c9b7e7e885e3214ab714425e",
+      "sha256": "1d2d9867a9eb6b4331c4fc108cef53f9322ed319c9b7e7e885e3214ab714425e",
+      "bytes": 3028,
+      "change": "none"
+    },
+    {
+      "path": "tilelang2rvv/verify_demo.py",
+      "origin": "RVV research snapshot 2026-10-29",
+      "source_sha256": "193a09d20a62da334dafb725d0327b2537ba4285bb4088c12feac26daf85d874",
+      "sha256": "193a09d20a62da334dafb725d0327b2537ba4285bb4088c12feac26daf85d874",
+      "bytes": 1389,
+      "change": "none"
+    },
+    {
+      "path": "tilelang2rvv/test_backend.py",
+      "origin": "RVV research snapshot 2026-10-29",
+      "source_sha256": "99e20ce85b2c5c25a2c9443a06cd07e8ae124e32ccc99f076893d7172ec10fdc",
+      "sha256": "99e20ce85b2c5c25a2c9443a06cd07e8ae124e32ccc99f076893d7172ec10fdc",
+      "bytes": 31412,
+      "change": "none"
+    },
+    {
+      "path": "tilelang2rvv/test_runner.py",
+      "origin": "RVV research snapshot 2026-10-29",
+      "source_sha256": "251a666366158fba56519b677ce07000bb61b84f7c3b6317d1383249c51ecacd",
+      "sha256": "251a666366158fba56519b677ce07000bb61b84f7c3b6317d1383249c51ecacd",
+      "bytes": 1171,
+      "change": "none"
+    },
+    {
+      "path": "tilelang2rvv/start.S",
+      "origin": "RVV research snapshot 2026-10-29",
+      "source_sha256": "a0ea7fe55d3e4b1e5e0086cfd6b8c8c0f8de82d0b4143504e4c285568bd4814e",
+      "sha256": "a0ea7fe55d3e4b1e5e0086cfd6b8c8c0f8de82d0b4143504e4c285568bd4814e",
+      "bytes": 774,
+      "change": "none"
+    },
+    {
+      "path": "tilelang2rvv/baremetal.ld",
+      "origin": "RVV research snapshot 2026-10-29",
+      "source_sha256": "f78951acd14828edc87c57094a0fd49d217f1c0487d62ea6ff28e26980387d43",
+      "sha256": "f78951acd14828edc87c57094a0fd49d217f1c0487d62ea6ff28e26980387d43",
+      "bytes": 357,
+      "change": "none"
+    }
+  ]
+}

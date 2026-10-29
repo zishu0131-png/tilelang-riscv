@@ -1,0 +1,2 @@
+# Preserve release-manifest byte hashes across platforms; do not normalize EOLs.
+* -text
