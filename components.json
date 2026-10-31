@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-31",
+  "scope": "Publication source pairing; not an end-to-end compatibility certification",
+  "components": [
+    {
+      "name": "numba2tilelang",
+      "repository": "https://github.com/zishu0131-png/numba2tilelang",
+      "commit": "939ba1b994ad3e5b92c6a8d53a64228a5d0f8032",
+      "baseline": "20261030-189"
+    },
+    {
+      "name": "tilelang2rvv",
+      "repository": "https://github.com/zishu0131-png/tilelang2rvv",
+      "commit": "dd3edbb74df837df33198fe1512f6c9a9c6504c6",
+      "source": "RVV files from umbrella commit 3058b8046098b2ff64fab26ba23a0a5f4a40fe8a"
+    }
+  ]
+}

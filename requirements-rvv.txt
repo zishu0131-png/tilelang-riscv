@@ -1,3 +1,0 @@
-# Optional: only for the RVV PrimFunc consumer, not frontend CPU conversion.
-# Other platforms may need the corresponding upstream installation instructions.
-tilelang==0.1.15
